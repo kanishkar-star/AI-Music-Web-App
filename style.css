@@ -1,0 +1,40 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    margin:0;
+    width:100%;
+    font-size:23px;
+}
+
+.heading span{
+    font-size:18px;
+    color:black;
+}
+
+.div_harry{
+    float:left;
+}
+
+.disk_image{
+    width:400;
+}
+
+#harry_potter{
+    font-size:18px;
+    color:black
+}
+
+.div_peter{
+    float:right;
+}
+
+.disk_image{
+    width:400;
+}
+
+#peter_pan{
+    font-size:18px;
+    color:black
+}
